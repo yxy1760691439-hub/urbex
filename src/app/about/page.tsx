@@ -52,7 +52,7 @@ export default function AboutPage() {
                   尊重与责任
                 </h3>
                 <p className="text-sm text-gray-400 leading-relaxed">
-                  遵循"Take nothing but photographs, leave nothing but footprints"的原则，
+                  遵循&ldquo;Take nothing but photographs, leave nothing but footprints&rdquo;的原则，
                   尊重建筑本身，尊重历史，尊重周边社区，对自己的行为负责。
                 </p>
               </div>
@@ -87,7 +87,7 @@ export default function AboutPage() {
             <div className="space-y-3 text-gray-400">
               <p className="flex items-start gap-3">
                 <span className="text-red-500 mt-1">×</span>
-                <span>我们不是"废墟旅游"指南，不鼓励将探险地点商业化或娱乐化</span>
+                <span>我们不是&ldquo;废墟旅游&rdquo;指南，不鼓励将探险地点商业化或娱乐化</span>
               </p>
               <p className="flex items-start gap-3">
                 <span className="text-red-500 mt-1">×</span>
